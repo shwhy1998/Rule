@@ -1,13 +1,11 @@
-- PROCESS-NAME,qbittorrent-nox,DIRECT
-- PROCESS-NAME,uuplugin,DIRECT
-- DOMAIN,api.open.oppomobile.com,🛑 广告拦截
-- DOMAIN,ps5.np.playstation.net,🚀 节点选择
-- DOMAIN-SUFFIX,playstation.net,DIRECT
-- DOMAIN,hdfans.org,DIRECT
-- DOMAIN,tracker.hhan.club,DIRECT   
-- DOMAIN,tracker.m-team.cc,DIRECT  
-- DOMAIN,tracker.m-team.io,DIRECT 
-- DOMAIN,t.hddolby.com,DIRECT
-- DOMAIN,t.audiences.me,DIRECT
-- DOMAIN-KEYWORD,plex,DIRECT
-- DOMAIN,steamcdn-a.akamaihd.net,DIRECT 
+PROCESS-NAME,qbittorrent-nox,DIRECT
+PROCESS-NAME,uuplugin,DIRECT
+DOMAIN-SUFFIX,playstation.net,DIRECT
+DOMAIN,hdfans.org,DIRECT
+DOMAIN,tracker.hhan.club,DIRECT   
+DOMAIN,tracker.m-team.cc,DIRECT  
+DOMAIN,tracker.m-team.io,DIRECT 
+DOMAIN,t.hddolby.com,DIRECT
+DOMAIN,t.audiences.me,DIRECT
+DOMAIN-KEYWORD,plex,DIRECT
+DOMAIN,steamcdn-a.akamaihd.net,DIRECT 
