@@ -1,7 +1,8 @@
 PROCESS-NAME,qbittorrent-nox
 PROCESS-NAME,uuplugin
 DOMAIN-SUFFIX,ip138.com
-DOMAIN-SUFFIX,playstation.net
+DOMAIN,gs2.ww.prod.dl.playstation.net
+DOMAIN,gst.prod.dl.playstation.net
 DOMAIN,hdfans.org
 DOMAIN,tracker.hhan.club
 DOMAIN,tracker.m-team.cc  
