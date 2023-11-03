@@ -1,8 +1,7 @@
 PROCESS-NAME,qbittorrent-nox
 PROCESS-NAME,uuplugin
-DOMAIN,shwhy.xyz
-DOMAIN,ares.dl.playstation.net
-DOMAIN,zeus.dl.playstation.net
+PROCESS-NAME,clouddrive
+DOMAIN-SUFFIX,playstation.net
 DOMAIN-SUFFIX,ip138.com
 DOMAIN,hdfans.org
 DOMAIN,tracker.hhan.club
@@ -11,5 +10,6 @@ DOMAIN,tracker.m-team.io
 DOMAIN,t.hddolby.com
 DOMAIN,t.audiences.me
 DOMAIN,tracker.cinefiles.info
+DOMAIN,tracker.ptcafe.club
 DOMAIN-KEYWORD,plex
 DOMAIN,steamcdn-a.akamaihd.net
