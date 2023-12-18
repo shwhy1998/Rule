@@ -1,7 +1,6 @@
 PROCESS-NAME,qbittorrent-nox
 PROCESS-NAME,uuplugin
 PROCESS-NAME,clouddrive
-DOMAIN-SUFFIX,ip138.com
 DOMAIN,hdfans.org
 DOMAIN,tracker.hhan.club
 DOMAIN,tracker.m-team.cc
@@ -11,4 +10,4 @@ DOMAIN,t.audiences.me
 DOMAIN,tracker.cinefiles.info
 DOMAIN,tracker.ptcafe.club
 DOMAIN-KEYWORD,plex
-DOMAIN,steamcdn-a.akamaihd.net
+
