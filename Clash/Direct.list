@@ -1,6 +1,7 @@
 PROCESS-NAME,qbittorrent-nox
 PROCESS-NAME,uuplugin
 PROCESS-NAME,clouddrive
+DOMAIN,ip138.com
 DOMAIN,hdfans.org
 DOMAIN,tracker.hhan.club
 DOMAIN,tracker.m-team.cc
