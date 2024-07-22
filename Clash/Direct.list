@@ -12,4 +12,6 @@ DOMAIN,tracker.cinefiles.info
 DOMAIN,tracker.ptcafe.club
 DOMAIN,tracker.sharkpt.net
 DOMAIN-KEYWORD,plex
+DOMAIN-SUFFIX,doh.pub
+DOMAIN-SUFFIX,alidns.com
 
