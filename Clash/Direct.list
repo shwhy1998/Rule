@@ -1,17 +1,4 @@
-PROCESS-NAME,qbittorrent-nox
-PROCESS-NAME,uuplugin
-PROCESS-NAME,clouddrive
 DOMAIN,ip138.com
-DOMAIN,hdfans.org
-DOMAIN,tracker.hhan.club
-DOMAIN,tracker.m-team.cc
-DOMAIN,tracker.m-team.io
-DOMAIN,t.hddolby.com
-DOMAIN,t.audiences.me
-DOMAIN,tracker.cinefiles.info
-DOMAIN,tracker.ptcafe.club
-DOMAIN,tracker.sharkpt.net
-DOMAIN-KEYWORD,plex
-DOMAIN-SUFFIX,doh.pub
-DOMAIN-SUFFIX,alidns.com
+DOMAIN-SUFFIX,plex.tv
+DOMAIN-SUFFIX,plex.direct
 
